@@ -65,7 +65,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,react,js,html,css,mysql,sqlite,stackoverflow,mariadb,linux,windows,wordpress,md,npm,obsidian,bash,git,github,vscode&perline=14">
+    <img src="https://skillicons.dev/icons?i=php,laravel,react,js,html,css,mysql,sqlite,stackoverflow,linux,windows,wordpress,md,npm,obsidian,bash,git,github,vscode&perline=14">
   </a>
 </p>
 <!-- Connect with me -->
