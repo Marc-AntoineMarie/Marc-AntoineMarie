@@ -3,41 +3,31 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Nishant</h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Marc-Antoine</h1></summary>
   </ul>
-</div>
-<!--- snake -->
-<div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake">
 </div>
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    <summary><h2 style="display: inline-block">Programming student aspiring to work for a major company.</h2></summary>
   </ul>
 </div>
 <!--Intro start-->
 <ul>
 <li>
-<p>🔭 I’m currently working on <strong>AWS, React, React Native, Nodejs, MongoDB</strong></p>
+<p>🔭 I’m currently working on <strong>Laravel, React, MySQL, MariaDB</strong></p>
 </li>
 <li>
 <p>🌱 I’m currently learning <strong>to put together multiple Hyper Beast Stack for Scalable Applications.</strong></p>
 </li>
-<li>
+<!-- <li>
 <p>☁️ I’ve keen interest in cloud computing. So,I’m learning <strong>AWS</strong></p>
+</li> -->
+<li>
+<p>💬 Ask me about <strong>PHP, Laravel,JavaScript, react, MySQL, MariaDB</strong></p>
 </li>
 <li>
-<p>📝 I regularly write articles on <a href="https://1010nishant.hashnode.dev/">Hashnode</a></p>
-</li>
-<li>
-<p>💬 Ask me about <strong>AWS, react, react-native, nodejs, mongoDB</strong></p>
-</li>
-<li>
-<p>📫 Feel free to reach me out <strong><a href="mailto:nishantjangid6377@gmail.com">nishantjangid6377@gmail.com</a></strong></p>
-</li>
-<li>
-<p>🏠 Also We’ve a tech community called <a href="https://discord.com/invite/p4TWyft886">Dev Hac</a>.</p>
+<p>📫 Feel free to reach me out <strong><a href="mailto:nishantjangid6377@gmail.com">mmarie.galaxie@gmail.com</a></strong></p>
 </li>
 </ul>
 <!--Intro end-->
