@@ -15,7 +15,7 @@
 <!--Intro start-->
 <ul>
 <li>
-<p>🔭 I’m currently working on <strong>Laravel, React, MySQL, MariaDB</strong></p>
+<p>🔭 I’m currently working on <strong>Laravel, React, MySQL, MariaDB, Postgres</strong></p>
 </li>
 <li>
 <p>🌱 I’m currently learning <strong>to put together multiple Hyper Beast Stack for Scalable Applications.</strong></p>
